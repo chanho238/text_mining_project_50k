@@ -1,0 +1,13 @@
+﻿label_name,style_family,count
+normal,business_task,6058
+normal,code_explanation,1910
+normal,email_document_summary,2140
+normal,general_instruction,10008
+normal,privacy_safe_summary,3268
+normal,report_writing,749
+normal,short_general_question,28572
+normal,translation_request,182
+risky_prompt,context_extraction,5275
+risky_prompt,jailbreak_instruction,157289
+risky_prompt,obfuscated_attack,158
+risky_prompt,roleplay_instruction,627

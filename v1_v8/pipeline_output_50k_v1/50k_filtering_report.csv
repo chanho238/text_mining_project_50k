@@ -1,0 +1,13 @@
+﻿flag,count
+missing,0
+too_short,6059
+too_long,300
+no_korean,436
+only_english,342
+repeat_char,84
+only_code,0
+too_many_placeholders,0
+wiki_residue,3758
+PASSED,188961
+LONG_CANDIDATE,274
+REMOVED_TOTAL,10121

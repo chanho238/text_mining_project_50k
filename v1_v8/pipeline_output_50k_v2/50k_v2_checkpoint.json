@@ -1,0 +1,58 @@
+{
+  "v2_step3_generate": {
+    "done": true,
+    "ts": "2026-05-31T11:23:46.610946",
+    "total": 5013,
+    "attack": 1632,
+    "normal": 3381
+  },
+  "v2_step2_audit": {
+    "done": true,
+    "ts": "2026-05-31T11:22:49.001811",
+    "total_problem_rows": 24030,
+    "P0": 169,
+    "P1": 145
+  },
+  "v2_step1_load": {
+    "done": true,
+    "ts": "2026-05-31T11:22:16.686790",
+    "v1_rows": 50000
+  },
+  "v2_step4_candidates": {
+    "done": true,
+    "ts": "2026-05-31T11:34:41.638221",
+    "n_candidates": 5
+  },
+  "v2_step5_select": {
+    "done": true,
+    "ts": "2026-05-31T11:34:41.675635",
+    "best_candidate": "S15k_pure7k7k"
+  },
+  "v2_step6_finalize": {
+    "done": true,
+    "ts": "2026-05-31T11:34:44.175576",
+    "best": "S15k_pure7k7k",
+    "rows": 50000
+  },
+  "v2_step7_final_eval": {
+    "done": true,
+    "ts": "2026-05-31T11:35:00.760911",
+    "lr_f1": 0.9966,
+    "svm_f1": 0.9982,
+    "cb_fn": 19,
+    "nat_fn": 9,
+    "nat_fp": 4,
+    "sf_auc": 0.7328,
+    "comb_auc": 0.7698,
+    "lbin_auc": 0.6221,
+    "ig_recall": 1.0,
+    "pap_recall": 0.9189,
+    "hn_fp": 0.0,
+    "hard_min_pass": 14,
+    "fail_n": 3
+  },
+  "v2_step8_readme": {
+    "done": true,
+    "ts": "2026-05-31T11:35:00.785997"
+  }
+}

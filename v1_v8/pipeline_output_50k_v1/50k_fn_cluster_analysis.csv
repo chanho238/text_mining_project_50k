@@ -1,0 +1,10 @@
+﻿source_family,attack_type,length_bin,fn_count
+external_attack_pool,jailbreak,20_99,18
+external_attack_pool,jailbreak,100_199,2
+spml_papago_family,direct_injection,300_399,2
+external_attack_pool,safe_risky_prompt_counterfactual,20_99,1
+external_attack_pool,prompt_injection,20_99,1
+spml_papago_family,adversarial,20_99,1
+spml_papago_family,control,20_99,1
+spml_papago_family,direct_injection,20_99,1
+spml_papago_family,prompt_injection,100_199,1

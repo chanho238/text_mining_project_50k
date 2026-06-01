@@ -1,0 +1,7 @@
+﻿issue,current,target,gap,severity,fix,current_auc,target_auc
+attack_rows_shortage,11606.0,25000.0,13394.0,CRITICAL,LLM attack generation (RAG/tool/context/FN/policy/template),,
+normal_hard_negative_shortage,470.0,14000.0,13530.0,CRITICAL,LLM normal HN generation (privacy/RAG/tool/marketing/security),,
+source_family_shortcut,,,0.2462,CRITICAL,llm_generated_pool used for both normal and attack,0.9262,0.68
+length_only_shortcut,,,0.1286,HIGH,shorter LLM attack generation (50-150 char) + balance,0.6886,0.56
+source_detail_shortcut,,,0.0104,LOW,LLM generation with diverse source_detail values,0.6904,0.68
+total_rows,36606.0,50000.0,13394.0,CRITICAL,same as attack_rows_shortage,,

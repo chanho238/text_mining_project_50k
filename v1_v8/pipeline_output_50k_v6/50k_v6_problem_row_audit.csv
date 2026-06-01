@@ -1,0 +1,15 @@
+﻿row_id,prompt,label_name,lr_pred,svm_pred,lr_proba,svm_score,margin_group,source_detail,source_family,style_family,attack_type,risk_subtype,is_hard_negative,length,length_bin,split,issue_category,issue_subtype,replace_priority,keep_or_replace,replacement_strategy,reason
+,,normal,,,,,,,,,,,,,100_199,,length_bin_high_purity,count=3589,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,100_199,,length_bin_high_purity,count=4638,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,200_299,,length_bin_high_purity,count=3426,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,200_299,,length_bin_high_purity,count=3873,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,20_99,,length_bin_high_purity,count=4565,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,20_99,,length_bin_high_purity,count=3820,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,300_399,,length_bin_high_purity,count=3295,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,300_399,,length_bin_high_purity,count=3372,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,400_499,,length_bin_high_purity,count=3361,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,400_499,,length_bin_high_purity,count=3131,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,500_599,,length_bin_high_purity,count=3443,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,500_599,,length_bin_high_purity,count=3106,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,normal,,,,,,,,,,,,,600_699,,length_bin_high_purity,count=3321,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit
+,,risky_prompt,,,,,,,,,,,,,600_699,,length_bin_high_purity,count=3060,P1,REVIEW,llm_v6_length_balance_pair,length_bin label distribution audit

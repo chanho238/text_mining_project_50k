@@ -1,0 +1,2 @@
+﻿raw_rows,detected_normal,detected_attack,ambiguous_rows,used_attack_rows,discarded_normal_rows
+20000,10000,10000,0,10000,10000

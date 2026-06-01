@@ -1,0 +1,2 @@
+﻿accuracy,precision,recall_attack,recall_normal,f1,tp,tn,fp,fn
+0.547,1.0,0.083,1.0,0.1533,41,506,0,453

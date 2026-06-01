@@ -1,0 +1,15 @@
+{
+  "artifact_rows_final_before": 1,
+  "artifact_rows_pool_only": 832,
+  "unseen": {
+    "accuracy": 0.547,
+    "precision": 1.0,
+    "recall_attack": 0.083,
+    "recall_normal": 1.0,
+    "f1": 0.1533,
+    "tp": 41.0,
+    "tn": 506.0,
+    "fp": 0.0,
+    "fn": 453.0
+  }
+}

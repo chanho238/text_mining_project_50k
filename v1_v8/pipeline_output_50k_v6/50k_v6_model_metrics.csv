@@ -1,0 +1,3 @@
+﻿model,split,f1,FN,FP,IG_recall,Papago_recall,nat_FN,nat_FP,hn_fp
+LR,test,1.0,0,0,1.0,1.0,0,0,0.0
+SVM,test,1.0,,,,,,,

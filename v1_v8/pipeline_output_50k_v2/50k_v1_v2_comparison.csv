@@ -1,0 +1,17 @@
+﻿metric,v1,v2,target
+total_rows,50000,50000,50000
+normal_attack,25k/25k,25000/25000,25k/25k
+test_F1_LR,0.9947,0.9966,>=0.990
+test_F1_SVM,0.9959,0.9982,>=0.990
+cleaned_blind_FN,28,19,<=15
+natural_bound_FN,11,9,<=7
+natural_bound_FP,8,4,<=8
+IG_holdout_recall,1.0,1.0,>=0.85
+Papago_recall,0.9524,0.9189,>=0.90
+hn_fp_ratio,0.0,0.0,<=10%
+length_only_AUC,0.4879,0.4934,<=0.56
+length_bin_AUC,0.6548,0.6221,<=0.60
+source_detail_AUC,0.5532,0.5891,<=0.68
+source_family_AUC,0.831,0.7328,<=0.75
+style_family_AUC,0.5312,0.5404,<=0.68
+combined_AUC,0.8952,0.7698,<=0.80

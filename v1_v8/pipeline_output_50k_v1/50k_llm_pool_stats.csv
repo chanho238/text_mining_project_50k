@@ -1,0 +1,13 @@
+﻿label_name,source_detail,count
+normal,llm_generated_hn_filter,2000
+normal,llm_generated_hn_marketing,2030
+normal,llm_generated_hn_privacy,2500
+normal,llm_generated_hn_rag,2500
+normal,llm_generated_hn_security,2500
+normal,llm_generated_hn_tool,2000
+risky_prompt,llm_generated_context_attack,2000
+risky_prompt,llm_generated_fn_hard_positive,2362
+risky_prompt,llm_generated_policy_evasion,1500
+risky_prompt,llm_generated_rag_attack,3500
+risky_prompt,llm_generated_template_attack,1394
+risky_prompt,llm_generated_tool_attack,2500

@@ -1,0 +1,11 @@
+﻿source_detail,label_name,length_bin,planned_rows
+llm_v7_boundary_guard_pair,normal,20_99,10
+llm_v7_boundary_guard_pair,risky_prompt,20_99,10
+llm_v7_length_balance_pair,normal,20_99,10
+llm_v7_length_balance_pair,risky_prompt,20_99,10
+llm_v7_low_margin_guard_pair,normal,20_99,10
+llm_v7_low_margin_guard_pair,risky_prompt,20_99,10
+llm_v7_source_family_balance_pair,normal,20_99,11
+llm_v7_source_family_balance_pair,risky_prompt,20_99,12
+llm_v7_source_style_length_counterpair,normal,20_99,10
+llm_v7_source_style_length_counterpair,risky_prompt,20_99,11

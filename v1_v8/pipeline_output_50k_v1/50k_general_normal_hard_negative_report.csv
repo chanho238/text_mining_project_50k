@@ -1,0 +1,9 @@
+﻿category,count
+general_normal,12190
+harmful_content_removal,2000
+normal_hard_negative,232
+privacy_safe_summary,2352
+safe_marketing_sns,1949
+safe_rag_summary,1964
+safe_tool_api,2000
+security_policy_explanation,2313

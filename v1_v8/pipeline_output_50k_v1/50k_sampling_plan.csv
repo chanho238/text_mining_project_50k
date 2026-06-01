@@ -1,0 +1,9 @@
+﻿label_name,source_family,count,pct
+normal,llm_generated_pool,12578,25.16
+normal,normal_evol_writing_source,2122,4.24
+normal,normal_instruction_source,4779,9.56
+normal,normal_realqa_source,5521,11.04
+risky_prompt,external_attack_pool,6250,12.5
+risky_prompt,injection_guardrail_family,4500,9.0
+risky_prompt,llm_generated_pool,13394,26.79
+risky_prompt,spml_papago_family,856,1.71

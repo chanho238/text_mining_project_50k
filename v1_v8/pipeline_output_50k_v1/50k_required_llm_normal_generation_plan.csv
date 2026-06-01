@@ -1,0 +1,10 @@
+﻿generation_group,label,category,target_count,length_bin,style_family,source_detail,source_family,pair_id_needed,notes
+normal_hard_negative,normal,privacy-safe summary,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,safe marketing,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,safe SNS,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,safe tool/API explanation,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,safe RAG summary,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,safe email/document summary,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,harmful content removal,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,security policy explanation,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"
+normal_hard_negative,normal,user confirmation required,1503,100_199|200_299,privacy_safe_summary|safe_marketing,llm_generated_hard_negative,llm_generated_pool,True,"generate in Korean, no injection cues"

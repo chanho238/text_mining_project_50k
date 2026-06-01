@@ -1,0 +1,30 @@
+{
+  "selected_candidate": "S8k_pure4k4k",
+  "metrics": {
+    "name": "S8k_pure4k4k",
+    "lr_f1": 0.9983,
+    "svm_f1": 0.9984,
+    "lr_FN": 12,
+    "lr_FP": 1,
+    "nat_FN": 3,
+    "nat_FP": 1,
+    "len_auc": 0.5027,
+    "lbin_auc": 0.5276,
+    "sd_auc": 0.5405,
+    "sf_auc": 0.6194,
+    "sty_auc": 0.5641,
+    "comb_auc": 0.657,
+    "IG_recall": 1.0,
+    "Papago_recall": 0.9648,
+    "hn_fp_ratio": 0.0,
+    "total_rows": 50000,
+    "normal": 25000,
+    "attack": 25000,
+    "llm_pool_pct": 0.826,
+    "leakage": 0,
+    "hard_minimum": "PASS",
+    "preferred": "FAIL",
+    "strong": "FAIL"
+  },
+  "finished_at": "2026-05-31T13:52:10.339276"
+}

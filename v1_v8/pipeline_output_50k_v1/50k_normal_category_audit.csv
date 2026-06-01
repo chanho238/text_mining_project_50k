@@ -1,0 +1,9 @@
+﻿source_detail,normal_category,count
+CarrotAI/ko-instruction-dataset,general_normal,4645
+CarrotAI/ko-instruction-dataset,normal_hard_negative,143
+iknow-lab/ko-evol-writing-wiki,general_normal,2083
+iknow-lab/ko-evol-writing-wiki,normal_hard_negative,39
+normal_koalpaca_realqa,general_normal,13103
+normal_koalpaca_realqa,normal_hard_negative,194
+normal_koalpaca_v11,general_normal,20143
+normal_koalpaca_v11,normal_hard_negative,94

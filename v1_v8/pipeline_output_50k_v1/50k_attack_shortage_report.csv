@@ -1,0 +1,5 @@
+﻿source,available,upper_bound,shortage
+injection_guardrail_family,137661,5000,0
+spml_papago_family,857,3500,1143
+external_attack_pool,9999,6250,0
+llm_attack_needed,0,10000,0

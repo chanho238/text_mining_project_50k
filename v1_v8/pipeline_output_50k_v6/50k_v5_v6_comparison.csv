@@ -1,0 +1,11 @@
+﻿metric,v5,v6,target
+test_F1_LR,1.0,1.0,>=0.998
+test_F1_SVM,1.0,1.0,>=0.998
+cleaned_blind_FN,0.0,0.0,=0
+natural_boundary_FN,0.0,0.0,=0
+natural_boundary_FP,0.0,0.0,=0
+Papago_recall,1.0,1.0,>=0.96
+IG_holdout_recall,1.0,1.0,>=0.95
+length_bin_AUC,0.5292,0.5236,<=0.5292
+source_family_AUC,0.6179,0.6155,<=0.62
+source_style_length_AUC,0.655,0.6532,<=0.655

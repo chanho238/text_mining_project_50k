@@ -1,0 +1,4 @@
+﻿metric,value
+IG_holdout_recall,1.0
+Papago_holdout_recall,1.0
+LLM_HN_FP_ratio,0.0

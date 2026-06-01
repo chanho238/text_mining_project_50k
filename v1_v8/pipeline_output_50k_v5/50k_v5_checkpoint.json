@@ -1,0 +1,30 @@
+{
+  "selected_candidate": "CB1000_NB500_WA1000_SE500",
+  "metrics": {
+    "lr_f1": 1.0,
+    "svm_f1": 1.0,
+    "lr_FN": 0,
+    "lr_FP": 0,
+    "nat_FN": 0,
+    "nat_FP": 0,
+    "len_auc": 0.5023,
+    "lbin_auc": 0.5292,
+    "sd_auc": 0.5347,
+    "sf_auc": 0.6179,
+    "sty_auc": 0.5641,
+    "comb_auc": 0.655,
+    "IG_recall": 1.0,
+    "Papago_recall": 1.0,
+    "hn_fp_ratio": 0.0,
+    "total_rows": 50000,
+    "normal": 25000,
+    "attack": 25000,
+    "duplicate": 0,
+    "leakage": 0,
+    "hard_minimum": "PASS",
+    "preferred": "PASS",
+    "strong": "FAIL",
+    "release_minimum": "PASS"
+  },
+  "finished_at": "2026-05-31T14:32:22.549119"
+}

@@ -1,0 +1,9 @@
+﻿source_family,label_name,count
+external_attack_pool,risky_prompt,1919
+injection_guardrail_family,risky_prompt,1607
+llm_generated_pool,normal,21001
+llm_generated_pool,risky_prompt,20554
+normal_evol_writing_source,normal,680
+normal_instruction_source,normal,1527
+normal_realqa_source,normal,1792
+spml_papago_family,risky_prompt,920

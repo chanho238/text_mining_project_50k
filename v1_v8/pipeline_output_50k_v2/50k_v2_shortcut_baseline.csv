@@ -1,0 +1,7 @@
+﻿baseline,auc,v1,limit_hard,status
+length-only AUC,0.4934,0.4879,0.56,PASS
+length_bin-only AUC,0.6221,0.6548,0.6,FAIL
+source_detail-only AUC,0.5891,0.5532,0.68,PASS
+source_family-only AUC,0.7328,0.831,0.75,PASS
+style_family-only AUC,0.5404,0.5312,0.68,PASS
+source+style+length AUC,0.7698,0.8952,0.8,PASS

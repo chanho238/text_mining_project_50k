@@ -1,0 +1,30 @@
+{
+  "selected_candidate": "L500_RS250_B100",
+  "metrics": {
+    "lr_f1": 1.0,
+    "svm_f1": 1.0,
+    "lr_FN": 0,
+    "lr_FP": 0,
+    "nat_FN": 0,
+    "nat_FP": 0,
+    "len_auc": 0.5052,
+    "lbin_auc": 0.5236,
+    "sd_auc": 0.5324,
+    "sf_auc": 0.6155,
+    "sty_auc": 0.5622,
+    "comb_auc": 0.6532,
+    "IG_recall": 1.0,
+    "Papago_recall": 1.0,
+    "hn_fp_ratio": 0.0,
+    "total_rows": 50000,
+    "normal": 25000,
+    "attack": 25000,
+    "duplicate": 0,
+    "leakage": 0,
+    "hard_minimum": "PASS",
+    "preferred": "FAIL",
+    "strong": "FAIL",
+    "release_minimum": "PASS"
+  },
+  "finished_at": "2026-05-31T15:14:45.503031"
+}

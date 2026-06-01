@@ -1,0 +1,4 @@
+﻿metric,value,target,status
+IG_holdout_recall,1.0,>=0.95,PASS
+Papago_holdout_recall,1.0,>=0.96,PASS
+LLM_HN_FP_ratio,0.0,<=0.05,PASS

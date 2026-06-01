@@ -1,0 +1,8 @@
+﻿file,raw_rows,role
+injection_dataset_v2_20000.csv,20000,attack+normal_mixed
+injection_guardrail.csv,138098,attack
+injection_SPML_Chatbot_Prompt-injection.csv,1000,attack
+normal_carrotai_ko_instruction.csv,4791,normal
+normal_iknow_lab_ko_evol_writing.csv,5887,normal
+normal_koalpaca_realqa.csv,18430,normal
+normal_koalpaca_v11.csv,21150,normal

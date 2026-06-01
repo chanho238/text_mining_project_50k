@@ -1,0 +1,2 @@
+﻿name,lr_f1,svm_f1,lr_FN,lr_FP,nat_FN,nat_FP,len_auc,lbin_auc,sd_auc,sf_auc,sty_auc,comb_auc,IG_recall,Papago_recall,hn_fp_ratio,total_rows,normal,attack,llm_pool_pct,leakage,hard_minimum,preferred,strong,pure_nrm,pure_atk,llm_nrm,llm_atk
+S8k_pure4k4k,0.9983,0.9984,12,1,3,1,0.5027,0.5276,0.5405,0.6194,0.5641,0.657,1.0,0.9648,0.0,50000,25000,25000,0.826,0,PASS,FAIL,FAIL,4000,4000,21000,21000

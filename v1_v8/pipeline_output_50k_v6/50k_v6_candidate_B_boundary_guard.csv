@@ -1,0 +1,2 @@
+﻿lr_f1,svm_f1,lr_FN,lr_FP,nat_FN,nat_FP,len_auc,lbin_auc,sd_auc,sf_auc,sty_auc,comb_auc,IG_recall,Papago_recall,hn_fp_ratio,total_rows,normal,attack,duplicate,leakage,hard_minimum,preferred,strong,release_minimum,name,replaced_rows
+1.0,1.0,0,0,0,0,0.5052,0.5236,0.5324,0.6155,0.5622,0.6532,1.0,1.0,0.0,50000,25000,25000,0,0,PASS,FAIL,FAIL,PASS,L500_RS250_B100,500

@@ -1,0 +1,8 @@
+﻿check,target,actual,status
+total_rows,50000,50000,PASS
+normal_rows,25000,25000,PASS
+risky_rows,25000,25000,PASS
+duplicate_prompt,0,0,PASS
+no_korean,0,0,PASS
+length_min,>=20,20,PASS
+source_detail_preserved,yes,verified,PASS

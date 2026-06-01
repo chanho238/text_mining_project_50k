@@ -1,0 +1,30 @@
+{
+  "selected_candidate": "SF250_COMB250_L250",
+  "metrics": {
+    "lr_f1": 1.0,
+    "svm_f1": 0.9997,
+    "lr_FN": 0,
+    "lr_FP": 0,
+    "nat_FN": 0,
+    "nat_FP": 0,
+    "len_auc": 0.5065,
+    "lbin_auc": 0.5222,
+    "sd_auc": 0.5304,
+    "sf_auc": 0.6115,
+    "sty_auc": 0.5596,
+    "comb_auc": 0.6485,
+    "IG_recall": 1.0,
+    "Papago_recall": 1.0,
+    "hn_fp_ratio": 0.0,
+    "total_rows": 50000,
+    "normal": 25000,
+    "attack": 25000,
+    "duplicate": 0,
+    "leakage": 0,
+    "hard_minimum": "PASS",
+    "preferred": "FAIL",
+    "strong": "FAIL",
+    "release_minimum": "PASS"
+  },
+  "finished_at": "2026-05-31T15:42:25.476972"
+}

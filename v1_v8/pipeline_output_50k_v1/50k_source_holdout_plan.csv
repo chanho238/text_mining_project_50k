@@ -1,0 +1,7 @@
+﻿holdout,rows,target_recall,status,target
+IG source holdout,687,>=0.85,plan_only,
+Papago/SPML holdout,126,>=0.90,plan_only,
+natural boundary FN,0,,plan_only,FN=0
+natural boundary FP,0,,plan_only,FP<=1
+cleaned blind FN,0,,plan_only,FN=0
+llm_hard_negative FP ratio,0,,plan_only,<=10%

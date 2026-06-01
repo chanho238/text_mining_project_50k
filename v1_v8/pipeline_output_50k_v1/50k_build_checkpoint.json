@@ -1,0 +1,183 @@
+{
+  "step5_normal_pool": {
+    "done": true,
+    "ts": "2026-05-31T10:00:49.170312",
+    "general_normal": 39974,
+    "hard_negative": 470,
+    "gn_shortage": 0,
+    "hn_shortage": 13530
+  },
+  "step1_inventory": {
+    "done": true,
+    "ts": "2026-05-31T10:00:23.528617"
+  },
+  "step4_filter": {
+    "done": true,
+    "ts": "2026-05-31T10:00:45.775364",
+    "passed": 188961,
+    "removed": 10121,
+    "long": 274
+  },
+  "step6_attack_pool": {
+    "done": true,
+    "ts": "2026-05-31T10:00:52.264571",
+    "total_attack": 148517,
+    "shortage": 0
+  },
+  "step3_v2_process": {
+    "done": true,
+    "ts": "2026-05-31T10:00:30.795259",
+    "attack_rows": 10000,
+    "discarded_normal": 10000
+  },
+  "step2_standardize": {
+    "done": true,
+    "ts": "2026-05-31T10:00:30.100044",
+    "total_rows": 209356
+  },
+  "step7_dedup": {
+    "done": true,
+    "ts": "2026-05-31T10:48:57.599035",
+    "before": 222026,
+    "after": 216236,
+    "removed": 5790
+  },
+  "step8_style": {
+    "done": true,
+    "ts": "2026-05-31T10:49:06.403573"
+  },
+  "step9_sampling": {
+    "done": true,
+    "ts": "2026-05-31T10:49:07.665412",
+    "selected": 50000,
+    "normal": 25000,
+    "attack": 25000
+  },
+  "step10_split": {
+    "done": true,
+    "ts": "2026-05-31T10:49:11.704870",
+    "leakage": 0,
+    "train": 35000,
+    "validation": 7500,
+    "test": 7500
+  },
+  "step11_shortcut": {
+    "done": true,
+    "ts": "2026-05-31T10:49:12.034993",
+    "combined_auc": 0.8952,
+    "results": [
+      {
+        "baseline": "length-only AUC",
+        "auc": 0.4879,
+        "hard_limit": 0.56,
+        "preferred": 0.55,
+        "status": "PASS"
+      },
+      {
+        "baseline": "length_bin-only AUC",
+        "auc": 0.6548,
+        "hard_limit": 0.56,
+        "preferred": 0.55,
+        "status": "FAIL"
+      },
+      {
+        "baseline": "source_detail-only AUC",
+        "auc": 0.5532,
+        "hard_limit": 0.68,
+        "preferred": 0.65,
+        "status": "PASS"
+      },
+      {
+        "baseline": "source_family-only AUC",
+        "auc": 0.831,
+        "hard_limit": 0.68,
+        "preferred": 0.65,
+        "status": "FAIL"
+      },
+      {
+        "baseline": "style_family-only AUC",
+        "auc": 0.5312,
+        "hard_limit": 0.68,
+        "preferred": 0.65,
+        "status": "PASS"
+      },
+      {
+        "baseline": "source+style+length AUC",
+        "auc": 0.8952,
+        "hard_limit": 0.72,
+        "preferred": 0.715,
+        "status": "FAIL"
+      }
+    ]
+  },
+  "step12_baseline": {
+    "done": true,
+    "ts": "2026-05-31T10:49:33.522385",
+    "metrics": [
+      {
+        "model": "LR",
+        "split": "validation",
+        "precision": 0.9973,
+        "recall": 0.9906,
+        "f1": 0.9939,
+        "auc": 0.9996,
+        "TP": 3694,
+        "FP": 10,
+        "FN": 35,
+        "TN": 3761
+      },
+      {
+        "model": "LR",
+        "split": "test",
+        "precision": 0.9968,
+        "recall": 0.9926,
+        "f1": 0.9947,
+        "auc": 0.9996,
+        "TP": 3739,
+        "FP": 12,
+        "FN": 28,
+        "TN": 3721
+      },
+      {
+        "model": "SVM",
+        "split": "validation",
+        "precision": 0.9984,
+        "recall": 0.9938,
+        "f1": 0.9961,
+        "auc": null,
+        "TP": 3706,
+        "FP": 6,
+        "FN": 23,
+        "TN": 3765
+      },
+      {
+        "model": "SVM",
+        "split": "test",
+        "precision": 0.9984,
+        "recall": 0.9934,
+        "f1": 0.9959,
+        "auc": null,
+        "TP": 3742,
+        "FP": 6,
+        "FN": 25,
+        "TN": 3727
+      }
+    ]
+  },
+  "step13_holdout": {
+    "done": true,
+    "ts": "2026-05-31T10:49:33.570009"
+  },
+  "step14_reports": {
+    "done": true,
+    "ts": "2026-05-31T10:49:35.776674"
+  },
+  "step15_llm_plan": {
+    "done": true,
+    "ts": "2026-05-31T10:49:35.781663"
+  },
+  "step16_readme": {
+    "done": true,
+    "ts": "2026-05-31T10:49:35.801982"
+  }
+}

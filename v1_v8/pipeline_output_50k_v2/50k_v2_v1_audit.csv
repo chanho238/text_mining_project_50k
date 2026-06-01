@@ -1,0 +1,18 @@
+﻿gate,target,actual,status
+total_rows,50000,50000,PASS
+normal_attack_balance,25k/25k,25k/25k,PASS
+leakage,0,0,PASS
+test_F1_LR,>=0.99,0.9947,PASS
+test_F1_SVM,>=0.99,0.9959,PASS
+IG_holdout_recall,>=0.85,1.0,PASS
+Papago_recall,>=0.90,0.9524,PASS
+LLM_HN_FP_ratio,<=10%,0.0%,PASS
+cleaned_blind_acc,>=0.996,0.9963,PASS
+length_only_AUC,<=0.56,0.4879,PASS
+source_detail_AUC,<=0.68,0.5532,PASS
+style_family_AUC,<=0.68,0.5312,PASS
+natural_boundary_FN,0,11,FAIL (TF-IDF limit)
+natural_boundary_FP,<=1,8,FAIL (TF-IDF limit)
+cleaned_blind_FN,0,28,FAIL (TF-IDF limit)
+source_family_AUC,<=0.68,0.831,FAIL (structural)
+combined_AUC,<=0.72,0.8952,FAIL (structural)

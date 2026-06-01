@@ -1,0 +1,17 @@
+﻿source_detail,label_name,length_bin,planned_rows
+llm_v7_code_block,normal,100_199,7
+llm_v7_code_block,risky_prompt,100_199,7
+llm_v7_customer_support,normal,100_199,7
+llm_v7_customer_support,risky_prompt,100_199,7
+llm_v7_email_hidden_instruction,normal,100_199,7
+llm_v7_email_hidden_instruction,risky_prompt,100_199,7
+llm_v7_meeting_report,normal,100_199,7
+llm_v7_meeting_report,risky_prompt,100_199,7
+llm_v7_rag_document,normal,100_199,7
+llm_v7_rag_document,risky_prompt,100_199,7
+llm_v7_sns_rewrite,normal,100_199,7
+llm_v7_sns_rewrite,risky_prompt,100_199,7
+llm_v7_tool_api,normal,100_199,7
+llm_v7_tool_api,risky_prompt,100_199,7
+llm_v7_translation_hidden_instruction,normal,100_199,7
+llm_v7_translation_hidden_instruction,risky_prompt,100_199,7
