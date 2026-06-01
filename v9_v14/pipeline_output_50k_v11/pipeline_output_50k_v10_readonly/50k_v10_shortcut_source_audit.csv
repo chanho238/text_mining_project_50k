@@ -1,0 +1,5 @@
+﻿source_family,label_name,count
+llm_generated_pool,normal,21302
+llm_generated_pool,risky_prompt,21435
+reference_pool,normal,3698
+reference_pool,risky_prompt,3565

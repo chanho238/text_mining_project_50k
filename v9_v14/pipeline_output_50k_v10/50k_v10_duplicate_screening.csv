@@ -1,0 +1,4 @@
+﻿check,count,status
+exact_duplicate,0,PASS
+normalized_duplicate,39396,FAIL
+cross_label_duplicate,0,PASS

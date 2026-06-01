@@ -1,0 +1,13 @@
+﻿style,normal_count,risky_prompt_count,coverage_status
+rag_document,31,247,sufficient
+email_instruction,30,31,sufficient
+tool_api,30,243,sufficient
+customer_support,30,247,sufficient
+meeting_report,30,30,sufficient
+code_block,30,30,sufficient
+translation_hidden_instruction,30,228,sufficient
+sns_rewrite,30,30,sufficient
+html_markdown_json,30,443,sufficient
+memory_poisoning,30,30,sufficient
+multiturn_context,30,245,sufficient
+ko_en_mixed,30,30,sufficient

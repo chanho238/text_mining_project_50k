@@ -1,0 +1,2 @@
+﻿name,lr_f1,svm_f1,lr_FN,lr_FP,svm_FN,svm_FP,nat_FN,nat_FP,lbin_auc,sd_auc,sf_auc,sty_auc,comb_auc,IG_recall,Papago_recall,hn_fp_ratio,total_rows,normal,attack,duplicate,cross_label_duplicate,unseen_accuracy,unseen_precision,unseen_recall_attack,unseen_recall_normal,unseen_f1,unseen_size,weak_missing,high_risk_artifact_before,high_risk_artifact_after,replacement_rows,support_rows
+T696_A3_shortN100,1.0,0.9999,0,0,0,1,0,0,0.5224,0.5273,0.6116,0.5593,0.6545,1.0,1.0,0.0,50000,25000,25000,0,0,1.0,1.0,1.0,1.0,1.0,1000,0,42733,41917,799,799

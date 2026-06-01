@@ -1,0 +1,7 @@
+﻿metric,v9,v10
+LR_F1,1.0,0.9977
+SVM_F1,0.9999,0.9984
+combined_auc,0.6545,0.5215
+source_family_auc,0.6116,0.5027
+numeric_prefix_rows,0.0,0.0
+target_weak_missing_styles,0.0,0.0

@@ -1,0 +1,3 @@
+﻿model,split,f1,FN,FP
+LR,test,0.9977,0,17
+SVM,test,0.9984,0,12

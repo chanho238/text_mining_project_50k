@@ -1,0 +1,5 @@
+﻿metric,v9,v10,v11
+LR_F1,1.0,0.9977,1.0
+natural_boundary_FP,0.0,16.0,0.0
+numeric_prefix_rows,41012.0,0.0,0.0
+combined_auc,0.6545,0.5199,0.6531

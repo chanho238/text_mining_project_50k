@@ -1,0 +1,15 @@
+﻿length_bin,label_name,count
+100_199,normal,7298
+100_199,risky_prompt,9004
+200_299,normal,3255
+200_299,risky_prompt,3300
+20_99,normal,2816
+20_99,risky_prompt,1220
+300_399,normal,2889
+300_399,risky_prompt,2601
+400_499,normal,2795
+400_499,risky_prompt,2940
+500_599,normal,2815
+500_599,risky_prompt,2764
+600_699,normal,3132
+600_699,risky_prompt,3171

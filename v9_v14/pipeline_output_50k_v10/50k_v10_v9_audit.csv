@@ -1,0 +1,8 @@
+﻿metric,value
+total_rows,50000
+label_distribution,"{""0"": 25000, ""1"": 25000}"
+split_distribution,"{""train"": 35000, ""validation"": 7500, ""test"": 7500}"
+raw_duplicate,286
+cross_label_duplicate,0
+numeric_prefix_rows_before,0
+numeric_prefix_rows_after,0

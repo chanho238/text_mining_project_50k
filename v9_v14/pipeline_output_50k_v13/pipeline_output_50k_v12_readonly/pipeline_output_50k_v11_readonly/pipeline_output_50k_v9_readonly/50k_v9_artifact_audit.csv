@@ -1,0 +1,7 @@
+﻿metric,value
+high_risk_before,42733
+high_risk_after,41917
+high_risk_replaced,3
+severe_artifact_rows_after,0
+placeholder_rows_after,11792
+numeric_prefix_rows_after,40995

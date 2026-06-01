@@ -1,0 +1,5 @@
+﻿metric,v7,v8
+LR_F1,1.0,1.0
+unseen_attack_recall,0.083,1.0
+unseen_accuracy,0.547,1.0
+combined_auc,0.6491,0.6551

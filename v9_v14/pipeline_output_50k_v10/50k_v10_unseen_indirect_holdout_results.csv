@@ -1,0 +1,2 @@
+﻿size,accuracy,precision,recall_attack,recall_normal,f1
+1000,0.999,0.998,1.0,0.998,0.999

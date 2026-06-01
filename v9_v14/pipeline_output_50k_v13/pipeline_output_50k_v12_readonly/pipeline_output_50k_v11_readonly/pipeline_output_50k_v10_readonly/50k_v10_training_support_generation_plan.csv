@@ -1,0 +1,6 @@
+﻿source_detail,label_name,length_bin,planned_rows
+llm_v10_enterprise_normal_replacement,normal,100_199,6521
+llm_v10_enterprise_normal_replacement,normal,20_99,13765
+llm_v10_enterprise_risky_replacement,risky_prompt,100_199,11185
+llm_v10_enterprise_risky_replacement,risky_prompt,20_99,8973
+llm_v10_short_normal_boundary_support,normal,20_99,2

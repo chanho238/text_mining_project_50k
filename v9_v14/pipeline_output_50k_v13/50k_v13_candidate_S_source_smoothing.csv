@@ -1,0 +1,2 @@
+﻿lr_f1,svm_f1,lr_FN,lr_FP,svm_FN,svm_FP,nat_FN,nat_FP,IG_recall,Papago_recall,lbin_auc,sf_auc,sd_auc,sty_auc,comb_auc,normal,attack,duplicate,cross_label_duplicate,normalized_duplicate,norm_groups,high_risk_groups,group100,unseen_size,unseen_accuracy,unseen_precision,unseen_recall_attack,unseen_recall_normal,name
+0.9999,0.9997,0,1,0,2,0,1,1.0,1.0,0.5229,0.6108,0.5245,0.5204,0.6239,25000,25000,0,0,25503,531,218,147,1000,1.0,1.0,1.0,1.0,S1000_L500_ND3000_F300_D500

@@ -1,0 +1,2 @@
+action,detail
+train_support,Known normal boundary FP types are supported in train without modifying test rows.

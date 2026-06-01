@@ -1,0 +1,8 @@
+﻿source_family,count
+external_attack_pool,1823
+injection_guardrail_family,1500
+llm_generated_pool,42737
+normal_evol_writing_source,618
+normal_instruction_source,1471
+normal_realqa_source,1609
+spml_papago_family,242

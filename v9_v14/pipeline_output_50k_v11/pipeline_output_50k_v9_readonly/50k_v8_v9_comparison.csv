@@ -1,0 +1,9 @@
+﻿metric,v8,v9
+LR_F1,1.0,1.0
+SVM_F1,0.9997,0.9999
+combined_auc,0.6551,0.6545
+source_family_auc,0.6115,0.6116
+length_bin_auc,0.5224,0.5224
+target_weak_missing_styles,12.0,0.0
+clean_unseen_attack_recall,1.0,1.0
+clean_unseen_normal_recall,1.0,1.0

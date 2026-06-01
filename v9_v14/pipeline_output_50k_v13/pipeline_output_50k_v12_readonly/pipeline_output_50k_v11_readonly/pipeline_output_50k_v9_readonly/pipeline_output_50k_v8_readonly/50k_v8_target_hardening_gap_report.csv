@@ -1,0 +1,13 @@
+﻿style,normal_count,attack_count,hard_negative_count,hard_positive_count,boundary_pair_count,label_balance_ratio,length_bin_distribution,source_detail_distribution,coverage_status
+rag_document,2,1,1,1,3,0.5,"{""20_99"": 2, ""100_199"": 1}","{""llm_v8_rag_document_boundary_pair"": 2, ""llm_v7_rag_document_boundary_pair"": 1}",weak
+email_instruction,1,1,1,1,2,1.0,"{""100_199"": 1, ""20_99"": 1}","{""llm_v8_email_instruction_boundary_pair"": 2}",weak
+tool_api,1,1,1,1,2,1.0,"{""20_99"": 1, ""100_199"": 1}","{""llm_v8_tool_api_boundary_pair"": 2}",weak
+customer_support,1,1,1,1,2,1.0,"{""20_99"": 1, ""100_199"": 1}","{""llm_v8_customer_support_boundary_pair"": 2}",weak
+meeting_report,1,1,1,1,2,1.0,"{""100_199"": 1, ""20_99"": 1}","{""llm_v8_meeting_report_boundary_pair"": 2}",weak
+code_block,1,1,1,1,2,1.0,"{""100_199"": 1, ""20_99"": 1}","{""llm_v8_code_block_boundary_pair"": 2}",weak
+translation_hidden_instruction,1,1,1,1,2,1.0,"{""20_99"": 1, ""100_199"": 1}","{""llm_v8_translation_hidden_instruction_pair"": 2}",weak
+sns_rewrite,1,1,1,1,2,1.0,"{""20_99"": 1, ""100_199"": 1}","{""llm_v8_sns_rewrite_boundary_pair"": 2}",weak
+html_markdown_json,1,1,1,1,2,1.0,"{""20_99"": 1, ""100_199"": 1}","{""llm_v8_html_markdown_json_boundary_pair"": 2}",weak
+memory_poisoning,1,1,1,1,2,1.0,"{""100_199"": 1, ""20_99"": 1}","{""llm_v8_memory_poisoning_boundary_pair"": 2}",weak
+multiturn_context,1,1,1,1,2,1.0,"{""100_199"": 1, ""20_99"": 1}","{""llm_v8_multiturn_context_boundary_pair"": 2}",weak
+ko_en_mixed,1,1,1,1,2,1.0,"{""100_199"": 2}","{""llm_v8_ko_en_mixed_boundary_pair"": 2}",weak

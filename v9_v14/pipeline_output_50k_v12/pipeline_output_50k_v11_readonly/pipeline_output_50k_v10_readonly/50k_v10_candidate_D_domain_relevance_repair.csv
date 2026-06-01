@@ -1,0 +1,2 @@
+﻿lr_f1,svm_f1,lr_FN,lr_FP,svm_FN,svm_FP,nat_FN,nat_FP,IG_recall,Papago_recall,lbin_auc,sf_auc,sd_auc,sty_auc,comb_auc,total_rows,normal,attack,duplicate,cross_label_duplicate,unseen_size,unseen_accuracy,unseen_precision,unseen_recall_attack,unseen_recall_normal,unseen_f1,name,weak_missing
+0.9977,0.9984,0,17,0,12,0,16,1.0,1.0,0.5038,0.5027,0.2017,0.5344,0.5215,50000,25000,25000,286,0,1000,1.0,1.0,1.0,1.0,1.0,fast_v10_finalize,0

@@ -1,0 +1,19 @@
+﻿metric,value
+total_rows,50000
+normal,25000
+risky_prompt,25000
+raw_prompt_duplicate,0
+raw_cross_label_duplicate,0
+columns,22
+source_family_distribution,"{""llm_generated_pool"": 42046, ""external_attack_pool"": 1831, ""normal_realqa_source"": 1617, ""injection_guardrail_family"": 1500, ""normal_instruction_source"": 1477, ""spml_papago_family"": 874, ""normal_evol_writing_source"": 655}"
+source_detail_distribution,"{""llm_v3_tool_boundary_pair"": 4115, ""llm_v3_translation_boundary_pair"": 4098, ""llm_v3_business_workflow_pair"": 4098, ""llm_v3_privacy_context_pair"": 4092, ""llm_v3_external_document_pair"": 4073, ""llm_v3_sns_safety_pair"": 4070, ""llm_v3_jailbreak_boundary_pair"": 4067, ""llm_v3_code_context_pair"": 4058, ""llm_v3_short_instruction_pair"": 4054, ""llm_v3_rag_boundary_pair"": 4052, ""injection_guardrail"": 1500, ""CarrotAI/ko-instruction-dataset"": 1488, ""normal_koalpaca_v11"": 984, ""iknow-lab/ko-evol-writing-wiki"": 655, ""llm_v3_papago_safe_attack_support"": 638, ""normal_koalpaca_realqa"": 633, ""jayavibhav-PI"": 536, ""ALERT"": 262, ""beomi/KoAlpaca-v1.1a"": 226, ""neuralchemy__Prompt-injection-dataset"": 191}"
+file_source_distribution,"{""llm_generated_v3"": 41415, ""injection_dataset_v2_20000.csv"": 1831, ""injection_guardrail.csv"": 1500, ""normal_carrotai_ko_instruction.csv"": 1478, ""normal_koalpaca_v11.csv"": 984, ""normal_iknow_lab_ko_evol_writing.csv"": 655, ""normal_koalpaca_realqa.csv"": 633, ""llm_generated_v7"": 500, ""llm_generated_v6"": 500, ""llm_generated_v5"": 244, ""injection_SPML_Chatbot_Prompt-injection.csv"": 236}"
+origin_type_distribution,"{""llm_generated_v3"": 41415, ""synthetic_public"": 2132, ""attack"": 1115, ""style_counterfactual_v2"": 532, ""llm_generated_v7"": 500, ""llm_generated_v6"": 500, ""llm_generated_v5"": 244, ""attack_hardening_v2"": 184, ""llm_generated_v8"": 24, ""llm_generated_v7_robustness"": 1}"
+risk_subtype_distribution,"{""safe_boundary"": 21238, ""v3_boundary_attack"": 20035, ""papago_boundary_support"": 638, ""v7_release_plus_attack"": 255, ""v6_refinement_attack"": 250, ""v5_release_boundary_attack"": 243, ""v8_unseen_support_attack"": 12, ""v8_defensive_normal"": 12}"
+attack_type_distribution,"{""prompt_injection"": 22182, ""none"": 21250, ""safe_risky_prompt_counterfactual"": 532, ""jailbreak"": 527, ""direct_injection"": 135, ""policy_evasion"": 36, ""adversarial"": 34, ""unsafe_harmful_request"": 32, ""control"": 6, ""agent_manipulation"": 6, ""context_confusion"": 5, ""crescendo"": 2, ""indirect_injection"": 2, ""rag_poisoning"": 1}"
+replacement_role_distribution,"{""mixed_boundary_pair"": 41415, ""SF250_COMB250_L250"": 500, ""L500_RS250_B100"": 500, ""CB1000_NB500_WA1000_SE500"": 244, ""U3000_T1500_A"": 24, ""artifact_repair"": 1}"
+style_family_distribution,"{""tool_api_instruction"": 6926, ""external_content_rag"": 6916, ""jailbreak_instruction"": 6874, ""short_general_question"": 4628, ""business_task"": 4589, ""general_instruction"": 4447, ""normal_like_subtle_attack"": 4059, ""privacy_safe_summary"": 3986, ""roleplay_instruction"": 3538, ""obfuscated_attack"": 3460, ""code_explanation"": 303, ""context_extraction"": 140, ""email_document_summary"": 68, ""report_writing"": 21, ""translation_request"": 20, ""rag_document"": 3, ""code_block"": 2, ""ko_en_mixed"": 2, ""meeting_report"": 2, ""tool_api"": 2}"
+length_bin_distribution,"{""20_99"": 8531, ""100_199"": 8392, ""200_299"": 7084, ""300_399"": 6631, ""500_599"": 6528, ""400_499"": 6470, ""600_699"": 6364}"
+normal_category_distribution,"{""general_normal"": 24926, ""normal_hard_negative"": 62}"
+is_hard_negative_distribution,"{""false"": 42515, ""true"": 7485}"
+generation_group_distribution,"{""v3_repair"": 41415, ""v7_release_plus_refinement"": 500, ""v6_strong_gate_refinement"": 500, ""v5_release_repair"": 244, ""v8_unseen_indirect_repair"": 24, ""v7_robustness_hardening"": 1}"

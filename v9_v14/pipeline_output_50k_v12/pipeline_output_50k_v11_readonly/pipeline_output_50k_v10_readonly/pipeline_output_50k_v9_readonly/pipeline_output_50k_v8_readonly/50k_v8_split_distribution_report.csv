@@ -1,0 +1,7 @@
+﻿split,label_name,count
+test,normal,3750
+test,risky_prompt,3750
+train,normal,17500
+train,risky_prompt,17500
+validation,normal,3750
+validation,risky_prompt,3750
